@@ -1,0 +1,49 @@
+Create React JS using Vite:
+
+1: npm create vite@latest ems-fronend : To create React JS Scaffolding project
+2: cd ems-fronend
+3: npm install
+4: npm run dev
+5: Change the port in vite.config.js 
+http://localhost:5173/
+
+6: index.css : remove all the default generated code
+7: Adding BootStrap in React using NPM
+
+8: React snippets for creating code template
+
+9. JavaScript function and JavaScripot Arrow function (preffered)
+
+10. rafce ; React Arrow function export components
+
+11. Use Bootstrap CSS class to align the contents on the web pages
+
+12. Bootstrap comes with three different containers:
+
+.container, which sets a max-width at each responsive breakpoint
+.container-fluid, which is width: 100% at all breakpoints
+.container-{breakpoint}, which is width: 100% until the specified breakpoint
+
+13. bootstrap 5 table 
+
+14. install the AXIOS library: npm install axios --save
+
+15. bootstrap 5 navbar for header and footer
+
+.footer {
+	position:absolute;
+	bottom:0;
+	width:100%;
+	height:50px;
+	background-color:black;
+	text-aligh:center;
+	color:white;
+}
+
+16. Configure routing in React App: install react-router-dom library using npm
+
+npm install react-router-dom --save
+
+To satrt the React Js:
+1. cd ems-fronend
+2. npm run dev 
